@@ -1,17 +1,14 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>$id$</id>
-    <version>$version$</version>
-    <title>$title$</title>
+    <id>MyLib</id>
+    <version>0.0.1</version>
+    <title>My Lib test library</title>
     <authors>ReflectFrame</authors>
     <owners>ReflectFrame</owners>
-    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
-    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
-    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Sample</description>
-    <releaseNotes></releaseNotes>
+    <description>Sample library</description>
+    <releaseNotes>Lab with nuget</releaseNotes>
     <copyright>Copyright 2016</copyright>
     <tags>Sample</tags>
   </metadata>
